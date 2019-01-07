@@ -1,0 +1,7 @@
+#Mon Jan 07 15:16:27 CST 2019
+base.0=/Users/jmforde/Desktop/rrNEW/TeamCode/build/intermediates/transforms/dexMerger/debug/10
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/jmforde/Desktop/rrNEW/TeamCode/build/intermediates/transforms/dexMerger/debug/10
