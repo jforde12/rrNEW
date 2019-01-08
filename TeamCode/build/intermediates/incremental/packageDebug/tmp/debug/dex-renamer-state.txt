@@ -1,13 +1,10 @@
-#Mon Jan 07 15:16:33 CST 2019
-path.3=classes.dex
-path.2=classes.dex
-path.1=classes.dex
+#Mon Jan 07 22:56:20 CST 2019
+path.2=classes3.dex
+path.1=classes2.dex
 path.0=classes.dex
-renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.3=/Users/jmforde/Desktop/rrNEW/TeamCode/build/intermediates/transforms/dexMerger/debug/14
-base.2=/Users/jmforde/Desktop/rrNEW/TeamCode/build/intermediates/transforms/dexMerger/debug/12
-base.1=/Users/jmforde/Desktop/rrNEW/TeamCode/build/intermediates/transforms/dexMerger/debug/13
-base.0=/Users/jmforde/Desktop/rrNEW/TeamCode/build/intermediates/transforms/dexMerger/debug/11
+base.2=C\:\\Users\\5975d\\Documents\\rrNEW\\TeamCode\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+base.1=C\:\\Users\\5975d\\Documents\\rrNEW\\TeamCode\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+base.0=C\:\\Users\\5975d\\Documents\\rrNEW\\TeamCode\\build\\intermediates\\transforms\\dexMerger\\debug\\0
