@@ -22,13 +22,13 @@ public class DriveConstants {
             MotorConfigurationType.getMotorType(NeveRest20Gearmotor.class);
     private static final double TICKS_PER_REV = MOTOR_CONFIG.getTicksPerRev();
 
-    public static double WHEEL_RADIUS = 1.975; // in
+    public static double WHEEL_RADIUS = 2; // in
     public static double GEAR_RATIO = 1; // output (wheel) speed / input (motor) speed
-    public static double TRACK_WIDTH = 10.94; // in
+    public static double TRACK_WIDTH = 12.86; // in
 
     public static DriveConstraints BASE_CONSTRAINTS = new DriveConstraints(30.0, 30.0, Math.PI / 2, Math.PI / 2);
 
-    public static double kV = .023;
+    public static double kV = .0195;
     public static double kA = 0;
     public static double kStatic = 0;
 

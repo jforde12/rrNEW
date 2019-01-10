@@ -25,7 +25,7 @@ public class TurnTestOpMode extends LinearOpMode {
         SampleMecanumDriveBase drive = new SampleMecanumDriveREVOptimized(hardwareMap);
 
         Trajectory trajectory = drive.trajectoryBuilder()
-                .turnTo(Math.PI / 2)
+                .turnTo(Math.PI)
                 .build();
 
         waitForStart();

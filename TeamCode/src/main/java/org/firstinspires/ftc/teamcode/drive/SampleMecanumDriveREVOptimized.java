@@ -75,7 +75,8 @@ public class SampleMecanumDriveREVOptimized extends SampleMecanumDriveBase {
         rightRear.setDirection(DcMotorSimple.Direction.REVERSE);
 
         // TODO: set the tuned coefficients from DriveVelocityPIDTuner if using RUN_USING_ENCODER
-        setPIDCoefficients(DcMotor.RunMode.RUN_USING_ENCODER, new PIDCoefficients(5,3.25,.25));
+        //setPIDCoefficients(DcMotor.RunMode.RUN_USING_ENCODER, new PIDCoefficients(7,3.25,.4));
+        //setPIDCoefficients(DcMotor.RunMode.RUN_USING_ENCODER, new PIDCoefficients(.02,0,.07));
     }
 
     @Override

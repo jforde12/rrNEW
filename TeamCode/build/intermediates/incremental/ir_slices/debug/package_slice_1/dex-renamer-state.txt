@@ -1,4 +1,4 @@
-#Mon Jan 07 15:16:29 CST 2019
-base.0=/Users/jmforde/Desktop/rrNEW/TeamCode/build/intermediates/transforms/dexMerger/debug/1
+#Tue Jan 08 18:01:06 CST 2019
+base.0=C\:\\Users\\5975d\\Documents\\rrNEW\\TeamCode\\build\\intermediates\\transforms\\dexMerger\\debug\\2
 path.0=classes.dex
 renamed.0=classes.dex
